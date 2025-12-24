@@ -1,33 +1,42 @@
-# 👋 Hi there, I'm Dipanwita Rano!
+# Dipanwita Rano
 
-I'm a Master's student in Computer Science at Texas A&M University (Class of 2026), passionate about building intelligent systems that bridge theory and real-world impact. My interests lie at the intersection of **Deep Learning, Systems, and Software Engineering**.
-
----
-
-
-## 💻 Past Experiences
-
-- **Software Development Intern @ NatWest Group**  
-  Built automation tools and optimized CI/CD pipelines (15% efficiency gain), using SpringBoot, JavaScript, FreeMarker, and REST APIs.
-
-- **Research Intern @ IIEST Shibpur**  
-  Developed a TinyML-based heart failure predictor using real-time sensor data streamed through Flask and Raspberry Pi.
+Master's student in Computer Science @ Texas A&M University (Class of 2026), focused on AI, ML, and full-stack development.  
+LeetCode: 1800+ points.
 
 ---
 
-## 🛠️ Tech Stack
+## Experience Highlights
 
-**Languages**: Python, C++, Java, C  
-**Frameworks**: PyTorch, TensorFlow, Flask, React, Node.js, SpringBoot  
-**Tools**: Google Cloud, MongoDB, Redis, Docker, PuLP, Git  
-**Domains**: NLP, Recommender Systems, TinyML, Code Theory, Optimization  
+**Software Development Intern | NatWest Group**  
+- Optimized CI/CD pipelines and automated workflows → 15% efficiency gain  
+- Technologies: SpringBoot, JavaScript, FreeMarker, REST APIs
+
+**Research Intern | IIEST Shibpur**  
+- Built a TinyML heart failure predictor streaming real-time sensor data via Flask & Raspberry Pi
 
 ---
 
-## 📫 Let's Connect!
+## Tech Stack
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/dipanwita-rano/)
-- 📨 Reach me at: dipanwita22rano@gmail.com
+Python | C++ | Java | C | PyTorch | TensorFlow | Flask | React | Node.js | SpringBoot | Docker | MongoDB | Redis | Git
 
-Always happy to collaborate on exciting research, intelligent systems, or open-source projects!
+---
 
+## Featured Projects
+
+- **AI-Powered Medical Summarizer**: Fine-tuned BART & Pegasus, +22% accuracy  
+- **Netflix Clone**: Full-stack app with JWT auth & personalized recommendations  
+- **Fashion Trend Analyzer**: Flask app scraping social media trends
+
+---
+
+## GitHub Stats
+
+![Dipanwita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rano-dipa&show_icons=true&hide_border=true&count_private=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rano-dipa&layout=compact&hide_border=true&theme=default)
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/dipanwita-rano/) | Email: dipanwita22rano@gmail.com
