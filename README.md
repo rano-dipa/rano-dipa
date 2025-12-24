@@ -1,7 +1,7 @@
 # Dipanwita Rano
 
-Master's student in Computer Science @ Texas A&M University (Class of 2026), focused on AI, ML, and full-stack development.  
-LeetCode: 1800+ points.
+Master's student in Computer Science at Texas A&M University (Class of 2026), focused on AI, ML, and full-stack development.  
+LeetCode: 1800+ points. Experienced in building scalable systems, intelligent applications, and contributing to open-source projects.
 
 ---
 
@@ -12,28 +12,25 @@ LeetCode: 1800+ points.
 - Technologies: SpringBoot, JavaScript, FreeMarker, REST APIs
 
 **Research Intern | IIEST Shibpur**  
-- Built a TinyML heart failure predictor streaming real-time sensor data via Flask & Raspberry Pi
+- Developed a TinyML-based heart failure predictor streaming real-time sensor data via Flask & Raspberry Pi
 
 ---
 
 ## Tech Stack
 
-Python | C++ | Java | C | PyTorch | TensorFlow | Flask | React | Node.js | SpringBoot | Docker | MongoDB | Redis | Git
+**Languages:** Python | C++ | Java | C  
+**Frameworks & Tools:** PyTorch | TensorFlow | Flask | React | Node.js | SpringBoot | Docker | MongoDB | Redis | Git  
+**Domains:** AI/ML | NLP | Recommender Systems | TinyML | Optimization | Full-Stack Development
 
 ---
 
 ## Featured Projects
 
-- **AI-Powered Medical Summarizer**: Fine-tuned BART & Pegasus, +22% accuracy  
-- **Netflix Clone**: Full-stack app with JWT auth & personalized recommendations  
-- **Fashion Trend Analyzer**: Flask app scraping social media trends
+- **AI-Powered Medical Summarizer:** Fine-tuned BART & Pegasus models, improving report summarization accuracy by 22%  
+- **Netflix Clone:** Full-stack web app with JWT authentication & personalized recommendations  
+- **Fashion Trend Analyzer:** Flask app scraping social media to rank trending products  
 
----
-
-## GitHub Stats
-
-![Dipanwita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rano-dipa&show_icons=true&hide_border=true&count_private=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rano-dipa&layout=compact&hide_border=true&theme=default)
+Check out my portoflio: https://rano-dipa.github.io/
 
 ---
 
